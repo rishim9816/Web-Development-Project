@@ -1,0 +1,20 @@
+body
+{
+	background-image: url("https://www.tokkoro.com/picsup/3029533-coffee_color_cup-of-coffee_drink_fabric_notebook_notepad_office_paper_pattern_pen_placemat_table_textile_texture_work_workplace.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.background
+{
+	max-width:700px;
+	padding: 20px;
+	position: relative;
+	margin: 20px auto;
+	background: rgba(255,255,255,0.8);
+	font-family: Quicksand;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}

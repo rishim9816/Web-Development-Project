@@ -1,0 +1,77 @@
+body
+{
+	background-image: url("https://www.tokkoro.com/picsup/3029533-coffee_color_cup-of-coffee_drink_fabric_notebook_notepad_office_paper_pattern_pen_placemat_table_textile_texture_work_workplace.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.form
+{
+	line-height: 4;
+	text-align: center;
+	/*float: left;
+	width: 50%;
+	height:500px;*/
+	font-family: Quicksand;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.form h3
+{
+	margin: 0;
+	height: 75px;
+}
+.input
+{
+	border:2px solid #19bf7d;
+	outline:none;
+	background:none;
+	border-radius: 50px;
+	padding: 3px 7px;
+	font-size: 20px;
+	height:40px;
+	width: 280px;
+	max-width: 90%;
+}
+.button
+{
+	border:none;
+	outline:none;
+	background: #19bf7d;
+	font-size: 20px;
+	font-aline:center;
+	color:white;
+	width: 40%;
+	height: 50px;
+	text-shadow: 2px 2px #000000;
+	border-radius: 50px;
+}
+.box
+{
+	background: rgba(255,255,255,0.8);
+	width: 30%;
+	position: relative;
+	margin: auto;
+	border-radius: 13%;
+}
+.social-container a
+{
+	border:1px solid black;
+	border-radius: 50%;
+	justify-content: center;
+	display: inline-flex;
+	margin: 0 7px;
+	height: 40px;
+	width: 40px;
+	align-items: center;
+}
+
+a:link,a:visited
+{
+	color: black;
+	text-decoration:none;
+}
+
+.reg
+{
+	display: none;
+}
